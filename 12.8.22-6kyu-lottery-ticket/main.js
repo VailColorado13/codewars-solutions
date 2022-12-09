@@ -1,4 +1,5 @@
-
+//Solution for 6kyu Lottery Ticket 
+//Link to Kata: https://www.codewars.com/kata/57f625992f4d53c24200070e
 
 //Parameters: an array of two-value arrays will be the input. Those two values will be letters and a number
   //the second parameter will be an int
