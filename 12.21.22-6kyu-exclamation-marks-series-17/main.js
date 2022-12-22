@@ -18,4 +18,5 @@ function balance(left,right){
     },0)
     
     return leftSum > rightSum ? 'Left' : rightSum > leftSum ? 'Right' : 'Balance'
+    
 }  
