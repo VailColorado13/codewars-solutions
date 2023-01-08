@@ -8,7 +8,6 @@ function sortArray(array) {
   
   let answer =[]
   
-  
   for (let i =0; i < array.length; i++) {
     if (array[i] % 2 === 0) answer.push(evens.pop())
     else answer.push(odds.shift())
