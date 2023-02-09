@@ -24,3 +24,5 @@ function countFeelings(string, array) {
     }
     
     return `${feelsCount} ${feelsCount === 1 ? 'feeling' : 'feelings'}.`
+
+}
