@@ -9,15 +9,11 @@ function sortString(string,ordering) {
     if (!uniques.includes(letter)) uniques.push(letter)
   })
   
-  
   let firstLetters = string.split('').filter(letter => uniques.includes(letter))
   let secondLetters = string.split('').filter(letter => !uniques.includes(letter))
   
-
   
   let firstHalf = firstLetters.sort((a, b) =>  uniques.indexOf(a) - uniques.indexOf(b))
   
   return firstHalf.concat(secondLetters).join('')
-
-
 }
