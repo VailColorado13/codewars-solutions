@@ -5,7 +5,6 @@
 function generateHashtag (str) {
   
     if (str.length === 0) return false
-    
     str = str.replace(/\s\s+/, ' ').trim().split(' ')
       .filter(word => word.length > 0)
     
