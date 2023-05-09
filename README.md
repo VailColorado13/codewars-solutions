@@ -1,5 +1,5 @@
 # Codewars Solutions
-## I am currently in the top 1% of all codewars users! 
+## I am currently in the top 0.5% of all codewars users! 
 
 ## See my latest stats [here](https://www.codewars.com/users/vailcolorado13)
 
